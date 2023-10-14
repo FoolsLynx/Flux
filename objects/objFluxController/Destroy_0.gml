@@ -1,0 +1,1 @@
+__flux_destroy();
