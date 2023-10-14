@@ -8,6 +8,7 @@ Below is a list of functions that you can use to help create your own transition
 #### Parameters:
 
 | parameter | type | default | optional |
+| ------------- | ------------- | ------------- | ------------- |
 | sequence_id | Sequence Asset or Flux Sequence | N/A | :x: |
 
 #### Examples:
