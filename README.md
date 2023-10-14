@@ -13,6 +13,6 @@ Flux is a system that allows for the use of GameMaker Sequences in order to crea
 
 ## How To
 
-To learn what each function does take a look at the [Functions file]("https://github.com/foolslynx/flux/functions.md").
+To learn what each function does take a look at the [Functions]("https://github.com/FoolsLynx/Flux/blob/main/Functions.md") file.
 
 ## Questions and Answers

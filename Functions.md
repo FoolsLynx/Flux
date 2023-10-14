@@ -5,7 +5,15 @@ Below is a list of functions that you can use to help create your own transition
 ## flux_start
 
 `flux_start(sequence_id)`
-#### parameters
+#### Parameters:
 
-parameter | type 
-sequence_id | Sequence Asset or Flux Sequence
+| parameter | type | default | optional |
+| sequence_id | Sequence Asset or Flux Sequence | N/A | :x: |
+
+#### Examples:
+
+`flux_start(seqFadeToBlack)`
+
+## flux_start_ext
+
+`flux_start_ext(sequence_id, [callback], [caller], [speed], [rotation], [destroy])`
